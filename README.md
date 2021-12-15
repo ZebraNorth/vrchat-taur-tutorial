@@ -1,3 +1,7 @@
+# Deprecated
+
+This tutorial is for a v2 SDK avatar.  You should use the v3 SDK for new avatars.
+
 # How to Make a Taur Avatar in VRChat
 
 ## About Me
